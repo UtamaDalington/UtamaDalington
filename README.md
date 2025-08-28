@@ -9,9 +9,10 @@
 </h3>
 <h4 align="center">Transforming Ideas into Scalable, Secure, and Cloud-Optimized Solutions</h4>
 
+<!--
 ---
 
-<!-- Badges 
+ Badges 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/YourGitHubUsername?tab=followers">
