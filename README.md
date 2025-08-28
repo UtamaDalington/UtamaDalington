@@ -11,7 +11,7 @@
 
 ---
 
-<!-- Badges -->
+<!-- Badges 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/YourGitHubUsername?tab=followers">
@@ -20,7 +20,7 @@
   <a href="https://github.com/YourGitHubUsername?tab=repositories">
     <img src="https://img.shields.io/github/stars/YourGitHubUsername?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
   </a>
-</p>
+</p> -->
 
 ---
 
