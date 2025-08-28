@@ -55,7 +55,7 @@ The TEF Entrepreneurship Program has equipped me with invaluable expertise in bu
 - 💡 Advocate of **Digital Transformation & Cloud-Native Development**  
 - 💬 Ask me about **AWS | Azure | GCP | Cloud Formation | Ansible | Terraform | Kubernetes | Docker | CI/CD**
 - 💌 **LinkedIn:** https://www.linkedin.com/in/utama-dalington-5aba48148  
-- 📫 **Email me at:** utamadalington237@gmail.com
+- 📫 **Email:** utamadalington237@gmail.com
 - 🌐 **Portfolio:** https://medium.com/@utamadalington045 
 
 ---
